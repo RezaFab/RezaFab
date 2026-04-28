@@ -29,7 +29,7 @@ Most of my work focuses on frontend, backend, database design, API integration, 
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://github-readme-stack-mapping.vercel.app/api/card?username=RezaFab&mode=techstack&section=all&hide_border=true" />
+  <img src="[https://github-readme-stack-mapping.vercel.app/api/card?username=RezaFab&mode=techstack&section=all&hide_border=true](https://github-readme-stack-mapping.vercel.app/api/card?username=RezaFab&mode=techstack&section=all&theme=dark&hide_border=false&title_color=%238ec5ff&text_color=%23cfe8ff&bg_color=%23070b16&border_color=%23243049&show_projects=false&max_repos_per_stack=5&max_stacks=25)" />
 </p>
 
 ---
