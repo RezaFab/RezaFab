@@ -3,7 +3,7 @@
 <p align="center">
   Fullstack Developer from Jakarta, Indonesia 🇮🇩  
   <br/>
-  Passionate about Web Development, Backend Architecture, and Modern UI.
+  I build web apps, backend systems, and clean user interfaces.
 </p>
 
 <p align="center">
@@ -16,14 +16,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Fullstack Developer with experience in building and maintaining web applications using modern frontend and backend technologies.
+I'm a Fullstack Developer who enjoys building practical and reliable web applications.
 
-I enjoy working on clean UI, structured backend systems, database design, and solving real-world business problems through software.
+Most of my work focuses on frontend, backend, database design, API integration, and business process automation. I like turning messy workflows into clean and usable systems.
 
-- 🔭 Currently working as a Fullstack Developer
-- 🌱 Exploring more about **NestJS, Spring Boot, React, and Cloud Deployment**
-- 💻 Experienced with **PHP, Laravel, CodeIgniter, React, Node.js, and SQL**
-- 🎯 Interested in software architecture, technology, and scalable systems
+- 💻 Working with PHP, Laravel, CodeIgniter, React, Node.js, and SQL
+- 🌱 Currently learning more about NestJS, Spring Boot, and cloud deployment
+- 🛠️ Interested in backend architecture, clean UI, and scalable systems
 - 📍 Based in Jakarta, Indonesia
 
 ---
