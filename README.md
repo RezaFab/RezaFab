@@ -86,8 +86,3 @@ Creating dashboards, tables, filters, charts, export features, and structured re
 </p>
 
 ---
-
-
-<p align="center">
-  “Keep learning, keep building, and keep improving.”
-</p>
