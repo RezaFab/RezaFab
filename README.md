@@ -28,6 +28,9 @@ Most of my work focuses on frontend, backend, database design, API integration, 
 ---
 
 ## 🛠️ Tech Stack
+<p align="center">
+  <img height="240" src="https://github-stack-mapping.vercel.app/api/card?username=RezaFab&theme=dark&max_stacks=10" />
+</p>
 
 ### Frontend
 <p>
