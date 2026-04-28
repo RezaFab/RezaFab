@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Reza Lesmana 👋</h1>
+<h1 align="center">Hi, I'm Reza👋</h1>
 
 <p align="center">
   Fullstack Developer from Jakarta, Indonesia 🇮🇩  
