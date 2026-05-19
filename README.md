@@ -50,8 +50,8 @@ Creating dashboards, tables, filters, charts, export features, and structured re
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RezaFab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaFab&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-coral-kappa-32.vercel.app/api?username=RezaFab&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-coral-kappa-32.vercel.app/api/top-langs/?username=RezaFab&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
